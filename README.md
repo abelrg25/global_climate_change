@@ -18,12 +18,12 @@ Fuente: [Berkeley Earth](https://berkeleyearth.org/data/)
 
 ## Cómo ejecutar
 1. Clona el repositorio
-2. Instala dependencias (`pip install -r requirements.txt`)
+2. Instala dependencias (`pip install -r requirements.txt`). En caso de que la instalación no funcione de esta forma, instalar las paqueterías una por una
 3. Abre el notebook en `notebooks/Analisis_Temperatura_Global.ipynb`
 
 ## Requisitos
 - Python 3.8+
-- pandas, matplotlib, seaborn, numpy
+- pandas, matplotlib, seaborn, numpy, scikit-learn
 
 ## Licencia
 MIT
