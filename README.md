@@ -18,8 +18,9 @@ Fuente: [Berkeley Earth](https://berkeleyearth.org/data/)
 
 ## Cómo ejecutar
 1. Clona el repositorio
-2. Instala dependencias (`pip install -r requirements.txt`). En caso de que la instalación no funcione de esta forma, instalar las paqueterías una por una
-3. Abre el notebook en `notebooks/Analisis_Temperatura_Global.ipynb`
+2. Instala dependencias (`pip install -r requerimientos.txt`). En caso de que la instalación no funcione de esta forma, instalar las paqueterías una por una
+3. Abre el notebook en `notebooks/Analisis_Temperatura_Global_terrestre.ipynb`
+4. Las figuras se encuentran dentro del directorio `output`
 
 ## Requisitos
 - Python 3.8+
