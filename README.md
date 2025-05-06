@@ -1,6 +1,7 @@
 # Análisis de Tendencias Climáticas Globales (1850–2024)
 
 Este proyecto analiza la evolución de la temperatura global usando datos de Berkeley Earth. Se identifican tendencias, anomalías y cambios climáticos a lo largo del tiempo mediante Python y visualizaciones.
+Para la visualización interactiva, puedes visitar [este enlace de Tableau](https://public.tableau.com/app/profile/abel.rosales7650/viz/climate_change_global/Dashboard2?publish=yes) 
 
 ## Contenido
 - Introducción
